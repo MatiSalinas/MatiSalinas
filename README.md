@@ -3,13 +3,12 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatiSalinas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MatiSalinas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSalinas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/MatiSalinas/portfolioWeb/refs/heads/master/public/images/yo.jpg"  />
+
 
 ###
 
@@ -30,6 +29,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+<img align="right" height="150" src="https://raw.githubusercontent.com/MatiSalinas/portfolioWeb/refs/heads/master/public/images/yo.jpg"  />
 
 ###
 
