@@ -51,7 +51,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiSalinas/MatiSalinas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiSalinas/MatiSalinas/35a54eea83175b21cc928d60a3d3cd871b5f4b94/snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiSalinas/MatiSalinas/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/MatiSalinas/MatiSalinas/output/snake.svg" alt="Snake animation" />
 </picture>
